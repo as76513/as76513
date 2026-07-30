@@ -1,7 +1,5 @@
 <div align="center">
-📍 **Pune, India** · Open to **Staff / Lead DevSecOps · Security Automation · AI Platform** roles (Remote · Hybrid · Global)
 
-💬 *Building secure, AI-native systems that turn security data into action. Feel free to ⭐ my repos and reach out!*
 
 ### Hey there, I'm Amol Shinde 👋
 
@@ -17,6 +15,9 @@
 
 </div>
 
+📍 **Pune, India** · Open to **Staff / Lead DevSecOps · Security Automation · AI Platform** roles (Remote · Hybrid · Global)
+
+💬 *Building secure, AI-native systems that turn security data into action. Feel free to ⭐ my repos and reach out!*
 ---
 
 ### 📌 About Me
