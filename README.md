@@ -91,9 +91,18 @@
 
 ### 📜 Certifications
 
-🛡️ AWS Security Specialty (SCS-C02) · 🤖 AWS AI Practitioner · 🏗️ AWS Solutions Architect Associate · 💻 AWS Developer Associate · 🌍 HashiCorp Terraform Associate
+**☁️ AWS**
+- 🛡️ [AWS Security Specialty (SCS-C02)](https://aws.amazon.com/verification) · `230faaa868be4a31867ea7e4c4be3435`
+- 🤖 [AWS AI Practitioner](https://www.credly.com/badges/6df767d8-68b3-41b4-ba88-1e35f133f861/linked_in_profile)
+- 🏗️ [AWS Solutions Architect Associate](https://www.credly.com/earner/earned/badge/bf57b057-5741-44f0-8796-bb91cd1abadd)
+- 💻 [AWS Developer Associate](https://www.credly.com/earner/earned/share/004308c5-1678-411d-abeb-3a11c7114faa)
 
----
+**🌍 Infrastructure as Code**
+- [HashiCorp Terraform Associate](https://www.credly.com/badges/8b45e9c2-cd5a-4c21-9c11-58656403407b?source=linked_in_profile)
+
+**🤖 AI & Security**
+- [AI Security Certification](https://cranium.thinkific.com/certificates/wz7xetpirj)
+- [Claude Code in Action](https://verify.skilljar.com/c/fasohudj3vaq)
 
 ### ⚡ GitHub Stats
 
