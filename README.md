@@ -58,35 +58,13 @@
 
 ### 🛠️ Tech Stack
 
-**AI / Agentic**
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white)
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-412991?style=flat&logo=openai&logoColor=white)
-![AWS AI](https://img.shields.io/badge/AWS_AI_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-**Security & DevSecOps**
-![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=flat&logo=datadog&logoColor=white)
-![SAST/DAST/SCA](https://img.shields.io/badge/SAST%2FDAST%2FSCA-555555?style=flat)
-![CVSS](https://img.shields.io/badge/CVSS_v4-990000?style=flat)
-![Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
-
-**Cloud & Platform**
-![AWS](https://img.shields.io/badge/AWS_4x_Certified-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-
-**Data & Automation**
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
-**Languages**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+| Domain | Tools & Technologies |
+|:---|:---|
+| **🤖 AI / Agentic** | ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge) ![LLM Agents](https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white) ![AWS AI](https://img.shields.io/badge/AWS_AI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| **🛡️ Security & DevSecOps** | ![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=datadog&logoColor=white) ![SAST/DAST/SCA](https://img.shields.io/badge/SAST·DAST·SCA-555555?style=for-the-badge) ![CVSS](https://img.shields.io/badge/CVSS_v4-990000?style=for-the-badge) ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white) |
+| **☁️ Cloud & Platform** | ![AWS](https://img.shields.io/badge/AWS_4x-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) |
+| **📊 Data & Automation** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+| **💻 Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 
 ---
 
