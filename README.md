@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Amol Shinde 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=DevSecOps+%2B+AI+Engineer;9%2B+Years+in+Cloud+Security;Building+Agentic+Security+Automation;Turning+Findings+into+Action+at+Scale;15+Yrs+%7C+Dev+%E2%86%92+Cloud+%E2%86%92+DevSecOps+%E2%86%92+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=15+Yrs+%7C+Dev+%E2%86%92+Cloud+%E2%86%92+DevSecOps+%E2%86%92+AI;DevSecOps+%2B+AI+Engineer;9%2B+Years+in+Cloud+Security;Building+Agentic+Security+Automation;Turning+Findings+into+Action+at+Scale" alt="Typing SVG" />
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=as76513&label=Profile+Views&color=36BCF7&style=flat)
