@@ -7,7 +7,7 @@
 
 **🛡️ 15 years in engineering · 9+ securing the cloud · now teaching AI to defend it.**
 
-📍 **Pune, India** · Open to **Staff / Lead DevSecOps · Security Automation · AI Platform** roles (Remote · Hybrid · Global)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=as76513&label=Profile+Views&color=36BCF7&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amol-shinde-139ba31a/)
@@ -15,6 +15,9 @@
 ![Location](https://img.shields.io/badge/📍_Pune-India-success?style=flat)
 
 </div>
+
+📍 **Pune, India** · Open to **Staff / Lead DevSecOps · Security Automation · AI Platform** roles (Remote · Hybrid · Global)
+
 ---
 
 ### 📌 About Me
