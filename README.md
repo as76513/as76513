@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=DevSecOps+%2B+AI+Engineer;15+Years+in+Cloud+%26+Security;Building+Agentic+Security+Automation;Turning+Findings+into+Action+at+Scale" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=36BCF7&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=as76513&label=Profile+Views&color=36BCF7&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amol-shinde-139ba31a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashinde87@gmail.com)
 ![Location](https://img.shields.io/badge/📍_Pune-India-success?style=flat)
