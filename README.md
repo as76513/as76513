@@ -84,8 +84,11 @@ I build security automation for platform and product teams — turning noisy sca
 
 ![Stats](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/stats.svg)
 ![Repos per Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/repos-per-language.svg)
+
 ![Most Commit Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/most-commit-language.svg)
 ![Productive Time](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/productive-box.svg)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=as76513&theme=tokyonight)
 
 </div>
 
