@@ -80,7 +80,7 @@ I build security automation for platform and product teams — turning noisy sca
 
 ### ⚡ GitHub Stats
 
-<div align="center">
+<div align="left">
 
 [![](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/swift/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/swift/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/swift/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
