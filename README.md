@@ -24,6 +24,7 @@ I build security automation for platform and product teams — turning noisy sca
 - 🔐 **15 years** in engineering, **9+** securing the cloud; **4× AWS Certified** (incl. Security Specialty) + **AWS AI Practitioner**
 - 📊 I turn raw findings into **executive-grade, automated insight** — from Snowflake pipelines to board-level dashboards
 - 🌱 Publishing clean-room versions of the automation patterns I run in production
+- 🥇 **2× Employee of the Year / Excellence Award** winner · mentor and technical coach across multiple orgs
 
 ---
 
@@ -39,7 +40,9 @@ I build security automation for platform and product teams — turning noisy sca
 | 📉 CVSS severity reduction (contextual scoring) | Critical→lower: **99.25%** · High→lower: **88%** |
 | 📊 Executive dashboard | Sole owner · 10 sections · 47 SQL metric files |
 | 🧹 Data quality | SCA Bronze findings **150K → 70K** (noise cut) |
-| 🥇 Recognition | Employee of the Year 2023–24 (Avalara) |
+| ☸️ **Platform scale** | Kubernetes CI runner fleet across **100+ AWS accounts** |
+| 💰 **Cloud cost savings** | Serverless AMI/EBS/snapshot hygiene automation |
+| 🥇 **Recognition** | Employee of the Year 2023–24 + Excellence Award (Avalara) |
 
 ---
 
@@ -58,13 +61,14 @@ I build security automation for platform and product teams — turning noisy sca
 
 ### 🛠️ Tech Stack
 
-| Domain | Tools |
+| Domain | Tools & Technologies |
 |:---|:---|
-| **🤖 AI / Agentic** | MCP · LLM Agents (LangGraph) · RAG · AWS AI |
-| **🛡️ Security & DevSecOps** | SAST · DAST · SCA · CVSS v4 · Vault · Threat Modeling |
-| **☁️ Cloud & Platform** | AWS (4×) · Kubernetes · Docker · Helm · Terraform |
-| **📊 Data & Automation** | Snowflake · dbt · GitLab CI · Jenkins |
-| **💻 Languages** | Go · Python · SQL · Bash |
+| **🤖 AI / Agentic** | ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge) ![LLM Agents](https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white) ![AWS AI](https://img.shields.io/badge/AWS_AI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| **🛡️ Security & DevSecOps** | ![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=datadog&logoColor=white) ![SAST/DAST/SCA](https://img.shields.io/badge/SAST·DAST·SCA-555555?style=for-the-badge) ![CVSS](https://img.shields.io/badge/CVSS_v4-990000?style=for-the-badge) ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white) |
+| **☁️ Cloud & Platform** | ![AWS](https://img.shields.io/badge/AWS_4x-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) |
+| **📊 Data & Automation** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+| **💻 Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
+| **🌐 Also worked with** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white) ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white) ![JFrog](https://img.shields.io/badge/JFrog-40BE46?style=for-the-badge&logo=jfrog&logoColor=white) |
 
 ---
 
