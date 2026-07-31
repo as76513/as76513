@@ -78,6 +78,19 @@ I build security automation for platform and product teams — turning noisy sca
 
 ---
 
+### ⚡ GitHub Stats
+
+<div align="center">
+
+![Stats](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/stats.svg)
+![Repos per Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/most-commit-language.svg)
+![Productive Time](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/productive-box.svg)
+
+</div>
+
+---
+
 ### 🐍 Contribution graph
 
 <!-- Powered by the .github/workflows/snake.yml action in this repo. It writes to the `output` branch. -->
