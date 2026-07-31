@@ -82,13 +82,13 @@ I build security automation for platform and product teams — turning noisy sca
 
 <div align="center">
 
-![Profile Details](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/0-profile-details.svg)]
-![Repos per Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)]
+![Profile Details](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/buefy/0-profile-details.svg)]
+![Repos per Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/buefy/1-repos-per-language.svg)]
 
-![Most Commit Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)]
-![Productive Time](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/4-productive-time.svg)]
+![Most Commit Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/buefy/2-most-commit-language.svg)]
+![Productive Time](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/buefy/4-productive-time.svg)]
 
-![Stats](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/3-stats.svg)]
+![Stats](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/buefy/3-stats.svg)]
 
 </div>
 
