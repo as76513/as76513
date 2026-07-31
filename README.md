@@ -78,9 +78,12 @@ I build security automation for platform and product teams — turning noisy sca
 
 ---
 
-<div align="center">
+### 🐍 Contribution graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=as76513&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=as76513&layout=compact&theme=tokyonight)
+<!-- Powered by the .github/workflows/snake.yml action in this repo. It writes to the `output` branch. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/as76513/as76513/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/as76513/as76513/output/github-snake.svg" alt="Contribution snake" />
+</picture>
 
-</div>
+---
