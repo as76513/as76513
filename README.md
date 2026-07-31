@@ -82,13 +82,13 @@ I build security automation for platform and product teams — turning noisy sca
 
 <div align="center">
 
-![Stats](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/stats.svg)
-![Repos per Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/repos-per-language.svg)
+![Stats](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Repos per Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
-![Most Commit Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/most-commit-language.svg)
-![Productive Time](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/productive-box.svg)
+![Most Commit Language](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Productive Time](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=as76513&theme=tokyonight)
+[![](https://raw.githubusercontent.com/as76513/as76513/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 </div>
 
